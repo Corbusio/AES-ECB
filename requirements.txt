@@ -1,0 +1,6 @@
+streamlit
+pycryptodome
+numpy
+Pillow
+matplotlib
+scipy
